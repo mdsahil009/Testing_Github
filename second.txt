@@ -1,0 +1,1 @@
+now I am testing git commit and git add , status 
