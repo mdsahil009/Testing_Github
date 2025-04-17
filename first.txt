@@ -4,3 +4,4 @@ add some content and commit
 
 Add 3 content
 
+git  bug fixes add 2 times
